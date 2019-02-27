@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="22" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tilea1" tilewidth="32" tileheight="32">
+  <image source="tilea1.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="193" name="tilea2" tilewidth="32" tileheight="32">
+  <image source="tilea2.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="385" name="tilee" tilewidth="32" tileheight="32">
+  <image source="tilee.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="641" name="tilee5" tilewidth="32" tileheight="32">
+  <image source="tilee5.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="897" name="tilee4" tilewidth="32" tileheight="32">
+  <image source="tilee4.png" width="480" height="480"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="32" height="22">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGFjwHIhfDCB9HQnfGAD6ORIeKP8PhL+R/T/Q8T/q/1H/j/p/1P+j/h/1/6j/R5b/AVptp7QACwAA
+  </data>
+ </layer>
+ <layer name="Object" width="32" height="22">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA8WW3QmAMAyE013cQDfQ/WeqPhRKIVwusUlASv/IHfcpitTW3USeVjdW1fn2vgr7D/9DR9a4+v90HEnPnPfsP6u/5r+Cd5Z/xCu7z/KP9LL769zK6645m9ffc02XVT97Xruv6WL5Zf2j3NF6lB+UO1qP8uP1b61d/q3l5Z/N08sD0mnNM/r9t+Ya/X9h33/vOXS/A9y6Vz8ACwAA
+  </data>
+ </layer>
+ <layer name="Gate" width="32" height="22">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3VsQ2AMAxE0bM7wgSE/beBTADskdBwkndwCu5JX3J3pYF/Oww4WbM5+xd3b/ZM2hcREZF8g3//Zd3izlYcWNnicWer3NzZ5nFn+wDZbw1BAAsAAA==
+  </data>
+ </layer>
+</map>
